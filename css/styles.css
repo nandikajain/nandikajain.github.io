@@ -41,10 +41,10 @@ i {
 }
 
 footer {
-  margin-bottom: 0;
-  height: 100px;
+  margin-bottom: 20px;
+  height: 40px;
   vertical-align: middle;
-  padding-top: 10px;
+  padding-top: 20px;
   padding-bottom: 0px;
 }
 
@@ -241,6 +241,7 @@ div.sticky {
 }
 .middle{
   text-align: center;
+  margin: 0 auto;
 }
 
 
@@ -319,4 +320,28 @@ div.sticky {
   .modal-content {
     width: 100%;
   }
+}
+
+
+.up-arrow{
+  position: fixed;
+  bottom:10px;
+  right:0;
+
+}
+.fa-heart{
+  color:#ec5d5b;
+}
+.inline{
+  display: inline;
+}
+
+#bulb-image{
+  width:7%;
+}
+#mountain-image{
+  width:15%;
+}
+.right{
+  text-align: right;
 }
