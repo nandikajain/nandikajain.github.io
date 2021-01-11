@@ -213,10 +213,13 @@ div.sticky {
   width: 200px;
   margin-top: 25px;
 }
-
-.card {
-  width: 85%;
+.card{
   margin: auto;
+}
+
+.card-shadow1 {
+  margin: auto;
+  width: 85%;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -340,8 +343,18 @@ div.sticky {
   width:7%;
 }
 #mountain-image{
-  width:15%;
+  width:18%;
 }
 .right{
   text-align: right;
+}
+.left{
+  text-align: left;
+}
+.contact-para{
+  font-size: 18px;
+}
+.checkout{
+  border-radius: 20px;
+  float:right;
 }
