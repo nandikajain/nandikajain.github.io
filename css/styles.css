@@ -353,19 +353,34 @@ div.sticky {
   border-radius: 20px;
   float:right;
 }
-
 .project-hr{
   width: 40%;
   float:right;
 }
-/* .card-img-top {
-  width: 100%;
-  height: 15vw;
-  object-fit: cover;
-}
 
-@media only screen and (max-width: 900px){
-  .card-img-top {
-    height: 30vw;    
+@media only screen and (max-width: 650px){
+  #bulb-image {
+    display: none;
   }
-} */
+  .card-shadow1{
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 750px){
+
+  .project-hr{
+    width: 50%;
+  }
+  #mountain-image{
+    width:20%;
+  }
+}
+@media only screen and (max-width: 500px){
+
+  .project-hr{
+    width: 70%;
+  }
+  #mountain-image{
+    width:30%;
+  }
+}
