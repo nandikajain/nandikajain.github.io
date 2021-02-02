@@ -385,3 +385,21 @@ div.sticky {
     width:30%;
   }
 }
+.about_a{
+  color:#000;
+  text-decoration: underline;
+}
+.about_a:hover{
+  color:gray;
+}
+.about{
+  font-size: 110%;
+  line-height: 155%;
+}
+.mail_me{
+  color:black;
+}
+.mail_me:hover{
+  color:black;
+
+}
