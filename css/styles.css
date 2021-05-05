@@ -383,13 +383,7 @@ div.sticky {
     width:30%;
   }
 }
-/* .about_a{
-  color:#000;
-  text-decoration: underline;
-}
-.about_a:hover{
-  color:gray;
-} */
+
 .about_a{
   text-decoration: none;
   color: black;
@@ -405,13 +399,7 @@ div.sticky {
   font-size: 110%;
   line-height: 155%;
 }
-/* .mail_me{
-  color:black;
-}
-.mail_me:hover{
-  color:black;
 
-} */
 .about{
   line-height: 30px;
   font-size: large;
@@ -421,16 +409,6 @@ div.sticky {
   margin: 0 auto;
   text-align: center;
 }
-/* .social a {
-  font-size: 1.2rem;
-} */
-
-/* @media only screen and (min-width: 850px){
-  .about {
-    margin: 0 200px;
-  }
-  
-} */
 .social:link {
   text-decoration: none;
   color: black;
